@@ -64,7 +64,6 @@ function draw() {
     option2.hide();
     displayMsg = true;
     button.hide();
-    functionInitated = true;
     setTimeout(countDownTicks, 1000);
   });
   drawSprites();
